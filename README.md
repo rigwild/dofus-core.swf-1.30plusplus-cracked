@@ -8,6 +8,17 @@ Includes No anim: `/anim`
 
 ![Features](features.jpg)
 
+## File hash
+Check the cracked version you downloaded elsewhere is the original file.
+
+| Algorithm | File hash |
+| --------- | --------- |
+| MD5 | `aa20f2ca0c9d21a2ab99db9a3b177386` |
+| SHA-1  | `ee931676726ee52a953b628cb33957c958919774` |
+| SHA-256 | `5e8b8e1acf619d6be9a3d5864d811b720c4fa8de27ec98f8c893cda372aa1637` |
+
+See [Cracked version VirusTotal analysis](https://www.virustotal.com/gui/file/5e8b8e1acf619d6be9a3d5864d811b720c4fa8de27ec98f8c893cda372aa1637/detection).
+
 ## License
 ```
            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
