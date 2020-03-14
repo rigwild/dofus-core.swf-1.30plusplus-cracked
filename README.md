@@ -3,6 +3,9 @@ Dofus core.swf ++ cracked version from https://cadernis.fr/index.php?threads/cor
 
 Premium modified core which costs 10€. Was limited to some accounts. Easily cracked, enjoy.
 
+## /!\ NOTICE
+**The game was updated so this do not work anymore. If you find an updated version of the core, send it to me via email (check my GitHub profile) and I will look into it.**
+
 ## Features
 Includes No anim: `/anim`
 
